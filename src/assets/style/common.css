@@ -1,0 +1,30 @@
+.flex {
+    display: flex;
+}
+.flex-1 {
+    flex: 1;
+}
+.flex-c {
+    flex-direction: column;
+}
+.flex-b {
+    justify-content: space-between;
+}
+.flex-end {
+    justify-content: flex-end;
+}
+.a-center {
+    align-items: center;
+}
+.j-center {
+    justify-content: center;
+}
+.tl {
+    text-align: left;
+}
+.tc {
+    text-align: center;
+}
+.tr {
+    text-align: right;
+}

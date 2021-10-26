@@ -1,0 +1,50 @@
+import Vue from 'vue'
+import {
+  Button,
+  Field,
+  Icon,
+  Search,
+  Cell,
+  CellGroup,
+  Uploader,
+  Checkbox,
+  TreeSelect,
+  Toast,
+  Empty,
+  DatetimePicker,
+  Popup,
+  Picker,
+  Form,
+  Area,
+  NavBar,
+  Tab,
+  Tabs,
+  Switch,
+  Dialog,
+  ActionSheet,
+  Notify
+} from 'vant'
+
+Vue.use(Field)
+  .use(Button)
+  .use(Icon)
+  .use(Search)
+  .use(Cell)
+  .use(CellGroup)
+  .use(Uploader)
+  .use(Checkbox)
+  .use(TreeSelect)
+  .use(Toast)
+  .use(Empty)
+  .use(DatetimePicker)
+  .use(Popup)
+  .use(Picker)
+  .use(Form)
+  .use(Area)
+  .use(NavBar)
+  .use(Tab)
+  .use(Tabs)
+  .use(Switch)
+  .use(Dialog)
+  .use(ActionSheet)
+  .use(Notify)
