@@ -1,4 +1,4 @@
-# mobile-project
+# mobile-project-cli
 
 ## Project setup
 ```
